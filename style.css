@@ -1,11 +1,12 @@
 body
 {
-width:     800px;
+width:     1000px;
 font-family: Arial;
 font-color: #003366;
-background-color: #ff9966;
+background-color: #f638ea;
 }
 h1
 {
 font-family: Bookman;
+  font-color: #ef626c;
 }
