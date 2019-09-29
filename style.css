@@ -4,9 +4,11 @@ width:     1000px;
 font-family: Arial;
 font-color: #22181c;
 background-color: #f6e8ea;
-  background-image: url("at rest.png") 1000px 0.5;
+  background-image: url("at rest.png");
     background-image: center right;
       background-image: no-repeat;
+  background-size: cover;
+  opacity: 0.5;
   
 }
 h1
@@ -14,12 +16,12 @@ h1
 font-family: Bookman;
   font-color: #22181c;
   background-color: #ef6263;
-  padding: 10px 10px;
+  padding: 50px 10px;
   width: 500px;
   border-radius: 1px 25px;
     margin: 10px;
   position: relative;
-  left: 100px;
+  left: 200px;
 }
 p
 {
