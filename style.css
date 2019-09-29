@@ -5,11 +5,21 @@ font-family: Arial;
 font-color: #22181c;
 background-color: #f6e8ea;
   background-image: url("at rest.png");
-    background-image: center right
+    background-image: center right;
       background-image: no-repeat;
 }
 h1
 {
 font-family: Bookman;
   font-color: #22181c;
+  background-color: #ef6263;
+  padding: 10px 10px;
+  width: 200px;
+    margin: 10px;
+  position: relative;
+  left: 100px;
+}
+p
+{
+  padding: 10px;
 }
