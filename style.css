@@ -4,10 +4,9 @@ width:     1000px;
 font-family: Arial;
 font-color: #22181c;
 background-color: #f6e8ea;
-  background-image: url("at rest.png");
+  background-image: url("at rest.png") 200px;
     background-image: top right;
       background-image: no-repeat;
-  background-size: 200px;
   background-opacity: 0.5;
   
 }
